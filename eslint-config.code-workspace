@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules": true
+    },
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "javascript.preferences.quoteStyle": "single",
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.insertSpaceAfterConstructor": true
+  }
+}

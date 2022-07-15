@@ -1,0 +1,33 @@
+{
+  "name": "@limetric/eslint-config",
+  "version": "1.0.0",
+  "description": "Shareable config for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limetric/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Limetric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Limetric/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Limetric/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "dependencies": {
+    "eslint-plugin-jsdoc": "^39.3.3",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
