@@ -2,7 +2,7 @@
   "name": "@limetric/eslint-config",
   "version": "1.0.0",
   "description": "Shareable config for ESLint",
-  "main": "src/index.js",
+  "main": "src/javascript.js",
   "scripts": {
     "lint": "eslint ."
   },
