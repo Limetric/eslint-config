@@ -30,6 +30,7 @@ module.exports = {
     'max-lines-per-function': 'off',
     'max-params': 'off',
     'max-statements': 'off',
+    'newline-per-chained-call': 'off',
     'multiline-ternary': 'off',
     'no-await-in-loop': 'warn',
     'no-console': 'off',
