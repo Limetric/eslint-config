@@ -1,6 +1,6 @@
 {
   "name": "@limetric/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Shareable config for ESLint",
   "main": "src/javascript.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "eslint": "^8.19.0"
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.6",
     "eslint-plugin-jsdoc": "^39.3.3",
     "eslint-plugin-promise": "^6.0.0"
   }
