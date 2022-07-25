@@ -30,8 +30,9 @@ module.exports = {
     'max-lines-per-function': 'off',
     'max-params': 'off',
     'max-statements': 'off',
-    'newline-per-chained-call': 'off',
+    'multiline-comment-style': ['error', 'bare-block'],
     'multiline-ternary': 'off',
+    'newline-per-chained-call': 'off',
     'no-await-in-loop': 'warn',
     'no-console': 'off',
     'no-continue': 'off',
@@ -48,6 +49,7 @@ module.exports = {
       array: false,
       object: true
     }],
+    'prefer-named-capture-group': 'off',
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
     'require-atomic-updates': 'off',
