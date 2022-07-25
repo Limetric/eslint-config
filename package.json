@@ -27,10 +27,10 @@
     "eslint": ">= 8"
   },
   "devDependencies": {
-    "eslint": "^8.19.0"
+    "eslint": "^8.20.0"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.30.6",
+    "@typescript-eslint/eslint-plugin": "^5.30.7",
     "eslint-plugin-jsdoc": "^39.3.3",
     "eslint-plugin-promise": "^6.0.0"
   }
