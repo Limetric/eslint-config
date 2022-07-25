@@ -23,6 +23,9 @@
   "files": [
     "src/"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "peerDependencies": {
     "eslint": ">= 8"
   },
