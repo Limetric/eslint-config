@@ -32,10 +32,10 @@
     "eslint": ">= 8"
   },
   "devDependencies": {
-    "eslint": "^8.21.0"
+    "eslint": "^8.22.0"
   },
   "dependencies": {
-    "eslint-plugin-jsdoc": "^39.3.4",
+    "eslint-plugin-jsdoc": "^39.3.6",
     "eslint-plugin-promise": "^6.0.0"
   }
 }
