@@ -22,6 +22,7 @@ module.exports = {
     '@typescript-eslint/semi': ['error', 'always'],
     'array-bracket-newline': ['error', 'consistent'],
     'array-element-newline': ['error', 'consistent'],
+    camelcase: 'off',
     'capitalized-comments': 'off',
     complexity: 'off',
     'default-param-last': 'off',
