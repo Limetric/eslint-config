@@ -14,10 +14,13 @@ module.exports = {
     'jsdoc'
   ],
   rules: {
+    '@typescript-eslint/adjacent-overload-signatures': 'off',
     '@typescript-eslint/indent': ['error', 2],
     '@typescript-eslint/init-declarations': 'off',
     '@typescript-eslint/no-extra-parens': ['error', 'functions'],
     '@typescript-eslint/no-magic-numbers': 'off',
+    '@typescript-eslint/no-type-alias': 'off',
+    '@typescript-eslint/prefer-readonly-parameter-types': 'off',
     '@typescript-eslint/quotes': ['error', 'single'],
     '@typescript-eslint/semi': ['error', 'always'],
     'array-bracket-newline': ['error', 'consistent'],
@@ -27,6 +30,7 @@ module.exports = {
     complexity: 'off',
     'default-param-last': 'off',
     'function-call-argument-newline': ['error', 'consistent'],
+    'grouped-accessor-pairs': 'off',
     'id-length': 'off',
     'jsdoc/require-param-type': 'off',
     'jsdoc/require-returns-type': 'off',
